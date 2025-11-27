@@ -7,8 +7,8 @@ const kalam = Kalam({
 });
 
 export const metadata = {
-  title: "Happy Birthday!",
-  description: "Celebrate your day with joy and happiness!",
+  title: "Happy Birthday Meri jan!",
+  description: "You are my best part of life Maygod bless you",
 };
 
 export default function RootLayout({ children }) {
